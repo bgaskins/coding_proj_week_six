@@ -1,0 +1,26 @@
+{
+  "name": "coding_proj_week_six",
+  "version": "1.0.0",
+  "description": "coding project - testing",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bgaskins/coding_proj_week_six.git"
+  },
+  "keywords": [
+    "cards"
+  ],
+  "author": "Bryan Gaskins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgaskins/coding_proj_week_six/issues"
+  },
+  "homepage": "https://github.com/bgaskins/coding_proj_week_six#readme",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
